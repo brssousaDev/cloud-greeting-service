@@ -3,4 +3,4 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Alterar usando Reflash"
-  default-value: "- PERF"
+  default-value: "- teste oi"
